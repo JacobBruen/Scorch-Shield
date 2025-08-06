@@ -45,6 +45,7 @@ Our database includes the following entities:
 **Entity-Relationship Diagram (ERD)**  
 ![ER Diagram](assets/ER-Diagram.png)
 
+
 The design ensures:
 - Every wildfire is tied to one location
 - Shelters and evacuees are tracked separately
