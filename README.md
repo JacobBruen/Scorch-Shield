@@ -43,7 +43,7 @@ Our database includes the following entities:
 - **Donor**: Individuals or organizations donating aid
 
 **Entity-Relationship Diagram (ERD)**  
-*(Include ER diagram image here if available)*
+![ER Diagram](assets/ER-Diagram.png)
 
 The design ensures:
 - Every wildfire is tied to one location
