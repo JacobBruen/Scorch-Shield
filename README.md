@@ -81,6 +81,7 @@ Example queries executed:
 **Test Results:**
 All queries returned expected results, and the schema held up under data validation tests. The system also successfully displayed summarized info through custom views.
 
+
 ---
 
 ## Conclusion
@@ -97,11 +98,10 @@ While it’s a prototype, it lays the groundwork for a scalable system that coul
 
 ## Files Included
 
-- `create_schema.sql` – Full DDL statements
-- `insert_data.sql` – Test data population
-- `scorch_queries.sql` – Sample queries for testing
-- `Scorch_Shield_Report.pdf` – Full final report
-- `Scorch_Shield_Report.docx` – Word version
+- `project.sql` – Full DDL statements, Test data population, and Sample queries for testing
+- `Assets` – Contains all of the PNG images for the project
+- `Scorch Shield Final Report.pdf` – Full final report
+- `Scorch Shield Final Report.docx` – Word version
 
 ---
 
