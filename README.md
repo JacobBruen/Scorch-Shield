@@ -43,7 +43,7 @@ Our database includes the following entities:
 - **Donor**: Individuals or organizations donating aid
 
 **Entity-Relationship Diagram (ERD)**  
-![ER Diagram](assets/ER-Diagram.png)
+![ER Diagram](Assets/ER-Diagram.png)
 
 
 The design ensures:
