@@ -108,8 +108,8 @@ This project includes:
 
 Make sure you download both these files from this repository:
 
-- `project.sql` — contains all SQL commands to create and populate the database.
-- `Disaster_Relief_Database_Queries.py` — Python script to query the database and export results.
+- `project.sql` - contains all SQL commands to create and populate the database.
+- `Disaster_Relief_Database_Queries.py` - Python script to query the database and export results.
 
 ---
 
@@ -127,10 +127,16 @@ Make sure you download both these files from this repository:
 
 ```bash
 pip install mysql-connector-python pandas openpyxl
-
----
-
-## Appendix
-
-ERD and flowcharts are available in the `/assets` folder.
+```
+Open Disaster_Relief_Database_Queries.py and update the MySQL connection details to match your setup:
+```bash
+host = "localhost"
+user = "your_mysql_username"
+password = "your_mysql_password"
+database = "DisasterReliefDB"
+```
+Run the script:
+```bash
+python Disaster_Relief_Database_Queries.py
+```
 
