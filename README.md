@@ -97,12 +97,36 @@ While it’s a prototype, it lays the groundwork for a scalable system that coul
 
 ---
 
-## Files Included
+## How to Run the Project
 
-- `project.sql` – Full DDL statements, Test data population, and Sample queries for testing
-- `Assets` – Contains all of the PNG images for the project
-- `Scorch Shield Final Report.pdf` – Full final report
-- `Scorch Shield Final Report.docx` – Word version
+This project includes:
+
+- The SQL file (`project.sql`) to set up and populate the MySQL database for wildfire disaster relief.
+- A Python script (`Disaster_Relief_Database_Queries.py`) that runs SQL queries and exports results to an Excel file.
+
+### Step 1: Download the Files
+
+Make sure you download both these files from this repository:
+
+- `project.sql` — contains all SQL commands to create and populate the database.
+- `Disaster_Relief_Database_Queries.py` — Python script to query the database and export results.
+
+---
+
+### Step 2: Set Up the MySQL Database
+
+1. Install MySQL Community Server (https://dev.mysql.com/downloads/mysql/) if you don't have it installed.
+2. Use MySQL Workbench or the MySQL command line to run the `project.sql` file and set up the database.
+
+---
+
+### Step 3: Run the Python Script
+
+1. Install Python 3.x (https://www.python.org/downloads/) if not installed.
+2. Install the required Python packages:
+
+```bash
+pip install mysql-connector-python pandas openpyxl
 
 ---
 
