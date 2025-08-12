@@ -144,4 +144,6 @@ Run the script:
 ```bash
 python Disaster_Relief_Database_Queries.py
 ```
+## Appendix
 
+ERD and flowcharts are available in the /assets folder.
