@@ -10,6 +10,7 @@ Cameron Williams, David Poole, Stephan DeLuna, Jacob Bruen
 **Scorch Shield** is a database system built to modernize wildfire relief management by replacing outdated Excel-based systems. Wildfires require fast, coordinated action, yet many emergency systems lack the structured tools needed for that scale. This project improves communication, transparency, and speed by organizing relevant information into a normalized database with clearly defined relationships.
 
 The full report of Scorch Shield can be downloaded via PDF and/or DOCX through this repository. 
+
 ---
 
 ## Team and Contributions
@@ -83,7 +84,7 @@ Example queries executed:
 All queries returned expected results as seen in the images, and the schema held up under data validation tests. The system also successfully displayed summarized info through custom views.
 
 ![Severe Disasters over 55K](Assets/Severe_Disasters_over_55K.PNG)
-![Resources Under 50%](Assets/Resources_Under_50%.PNG)
+![Resources Under 50%](Assets/Resources_Under_50.PNG)
 ![Resource Completion Percentages](Assets/Resource_Completion_Percentages.PNG)
 ![Victims starting with M](Assets/Victims_starting_with_M.PNG)
 
