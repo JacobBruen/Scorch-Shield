@@ -82,10 +82,10 @@ Example queries executed:
 **Test Results:**
 All queries returned expected results as seen in the images, and the schema held up under data validation tests. The system also successfully displayed summarized info through custom views.
 
-![Severe Disasters over 55K](Assets/Severe_Disasters_over_55K.png)
-![Resources Under 50%](Assets/Resources_Under_50%.png)
-![Resource Completion Percentages](Assets/Resource_Completion_Percentages.png)
-![Victims starting with M](Assets/Victims_starting_with_M.png)
+![Severe Disasters over 55K](Assets/Severe_Disasters_over_55K.PNG)
+![Resources Under 50%](Assets/Resources_Under_50%.PNG)
+![Resource Completion Percentages](Assets/Resource_Completion_Percentages.PNG)
+![Victims starting with M](Assets/Victims_starting_with_M.PNG)
 
 ---
 
