@@ -74,14 +74,18 @@ Features:
 
 Example queries executed:
 
-- Total number of active fires by state
-- Aid received per shelter
-- Top 3 donors by quantity
-- Evacuees per shelter sorted by age
-
+- Severe Disasters over 55K
+- Resources Under 50%
+- Resource Completion Percentages
+- Victims starting with M
+  
 **Test Results:**
-All queries returned expected results, and the schema held up under data validation tests. The system also successfully displayed summarized info through custom views.
+All queries returned expected results as seen in the images, and the schema held up under data validation tests. The system also successfully displayed summarized info through custom views.
 
+![Severe Disasters over 55K](Assets/Severe_Disasters_over_55K.png)
+![Resources Under 50%](Assets/Resources_Under_50%.png)
+![Resource Completion Percentages](Assets/Resource_Completion_Percentages.png)
+![Victims starting with M](Assets/Victims_starting_with_M.png)
 
 ---
 
