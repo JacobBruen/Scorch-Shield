@@ -147,4 +147,4 @@ python Disaster_Relief_Database_Queries.py
 ## Appendix
 
 - The Full .sql file is located in the /Assets folder.
-- ERD and flowcharts are available in the /Assets folder.
+- ERD, Relational Schema, and flowcharts are available in the /Assets folder.
